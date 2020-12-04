@@ -1,0 +1,6 @@
+ACTION = compression
+INPUT_FILE = input.txt
+OUTPUT_FILE = output.txt
+NUMBER_SYSTEM = 16
+LENGTH_SEQUENCE = 2
+BUFFER_SIZE = 16
